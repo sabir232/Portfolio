@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f029a054.css",
+    "main.js": "/Portfolio/static/js/main.3881b16f.js",
+    "static/media/Hello.gif": "/Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Mahmdasabir_Dharwad_Resume_Latest.pdf": "/Portfolio/static/media/Mahmdasabir_Dharwad_Resume_Latest.2e27754e1f128cae69cc.pdf",
+    "static/media/hero3.png": "/Portfolio/static/media/hero3.9e18b0e2a55bb3871b78.png",
+    "static/media/illustration.svg": "/Portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/node-icon.svg": "/Portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/Portfolio/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/Portfolio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/Portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/github.svg": "/Portfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/html-icon.svg": "/Portfolio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/Portfolio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/linkedin.svg": "/Portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/Portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "main.f029a054.css.map": "/Portfolio/static/css/main.f029a054.css.map",
+    "main.3881b16f.js.map": "/Portfolio/static/js/main.3881b16f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f029a054.css",
+    "static/js/main.3881b16f.js"
+  ]
+}
