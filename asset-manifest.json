@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f029a054.css",
-    "main.js": "/Portfolio/static/js/main.3881b16f.js",
+    "main.js": "/Portfolio/static/js/main.b9fe12fc.js",
     "static/media/Hello.gif": "/Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Mahmdasabir_Dharwad_Resume_Latest.pdf": "/Portfolio/static/media/Mahmdasabir_Dharwad_Resume_Latest.2e27754e1f128cae69cc.pdf",
     "static/media/hero3.png": "/Portfolio/static/media/hero3.9e18b0e2a55bb3871b78.png",
@@ -17,10 +17,10 @@
     "static/media/linkedin.svg": "/Portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/Portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "main.f029a054.css.map": "/Portfolio/static/css/main.f029a054.css.map",
-    "main.3881b16f.js.map": "/Portfolio/static/js/main.3881b16f.js.map"
+    "main.b9fe12fc.js.map": "/Portfolio/static/js/main.b9fe12fc.js.map"
   },
   "entrypoints": [
     "static/css/main.f029a054.css",
-    "static/js/main.3881b16f.js"
+    "static/js/main.b9fe12fc.js"
   ]
 }
